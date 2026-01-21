@@ -1,0 +1,8 @@
+{
+  "name": "LPR Pro - Vision System",
+  "description": "A high-performance License Plate Recognition system featuring cinematic UI, real-time camera processing, and Chinese voice synthesis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
